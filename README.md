@@ -19,7 +19,7 @@ Nice to meet you, I'm SHAHRIAR AHMED uv
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-uv&theme=react)](https://github.com/xy-uv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-uv&theme=react&langs_count=13&layout=compact)](https://github.com/xy-uv/github-readme-stats)
 
 <br>
 
