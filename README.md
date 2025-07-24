@@ -19,7 +19,7 @@ Nice to meet you, I'm SHAHRIAR AHMED uv
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-uv&theme=react&langs_count=13&layout=compact)](https://github.com/xy-uv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-uv&theme=transparent&langs_count=13&layout=compact)](https://github.com/xy-uv)
 
 <br>
 
@@ -67,8 +67,8 @@ Nice to meet you, I'm SHAHRIAR AHMED uv
  
 ## Github Status 🏆
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=xy-uv&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=xy-uv&theme=react" width="48%" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=xy-uv&show_icons=true&hide_border=true&theme=transparent" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=xy-uv&theme=transparent" width="48%" >
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=xy-uv&theme=react-dark)
